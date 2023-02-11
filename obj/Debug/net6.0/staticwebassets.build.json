@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w5uNvz4fqrri6FlVc67XVb7G7ZHzv9s8r38mTi2tDmc=",
+  "Source": "VulnASP.NET_API",
+  "BasePath": "_content/VulnASP.NET_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
